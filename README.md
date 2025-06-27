@@ -6,7 +6,7 @@ icon: hand-wave
 # Welcome!
 
 {% hint style="info" %}
-Terminaux 7.x is currently under active development.
+This is the fourth (and the last) beta version of Terminaux 7.0 that was released on July 31st, 2025.
 
 If you still use old versions of Terminaux in your projects, go to the below links:
 
